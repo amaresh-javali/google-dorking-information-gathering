@@ -2,7 +2,7 @@
 
 A passive Google Dorking / OSINT reconnaissance project. This repo documents the methodology, findings, evidence, and remediation recommendations for publicly indexed information discovered through search-engine reconnaissance — no authentication, exploitation, or unauthorized access was performed against any target.
 
-📄 **`[Read the full report](https://github.com/amaresh-javali/google-dorking-information-gathering/blob/main/Google-Dork-OSINT-Security-Assessment-Report.pdf)` **
+📄 **[Read the full report](https://github.com/amaresh-javali/google-dorking-information-gathering/blob/main/Google-Dork-OSINT-Security-Assessment-Report.pdf) **
 
 ## Overview
 
